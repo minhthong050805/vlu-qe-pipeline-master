@@ -1,3 +1,4 @@
+// Updated login validation - v1.1
 function login(username, password) {
   if (!username || !password) {
     return false;
